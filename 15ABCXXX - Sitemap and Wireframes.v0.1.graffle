@@ -16,7 +16,7 @@
 	<key>GuidesLocked</key>
 	<string>NO</string>
 	<key>GuidesVisible</key>
-	<string>NO</string>
+	<string>YES</string>
 	<key>ImageCounter</key>
 	<integer>90</integer>
 	<key>LinksVisible</key>
@@ -490,7 +490,7 @@
 			<array>
 				<dict>
 					<key>Lock</key>
-					<string>NO</string>
+					<string>YES</string>
 					<key>Name</key>
 					<string>Master layer</string>
 					<key>Print</key>
@@ -623,7 +623,7 @@
 			<array>
 				<dict>
 					<key>Lock</key>
-					<string>YES</string>
+					<string>NO</string>
 					<key>Name</key>
 					<string>Master layer</string>
 					<key>Print</key>
@@ -666,7 +666,7 @@
 		</dict>
 	</array>
 	<key>ModificationDate</key>
-	<string>2016-04-14 11:56:38 +0000</string>
+	<string>2016-04-15 18:32:57 +0000</string>
 	<key>Modifier</key>
 	<string>Robbie Schneider</string>
 	<key>NotesVisible</key>
@@ -700,7 +700,7 @@
 		<key>NSPaperName</key>
 		<array>
 			<string>string</string>
-			<string>C18E7481-C888-4BD9-AC0E-C40F6D813F30</string>
+			<string>5126BA0F-1A09-405C-B2AD-1122E9A83A44</string>
 		</array>
 		<key>NSPaperSize</key>
 		<array>
@@ -21654,11 +21654,8 @@ Homepage}</string>
 			<integer>1</integer>
 			<key>VerticalGuides</key>
 			<array>
-				<real>477</real>
-				<real>621</real>
-				<real>990</real>
-				<real>1368</real>
-				<real>1512</real>
+				<real>260</real>
+				<real>1070</real>
 			</array>
 		</dict>
 		<dict>
@@ -23936,11 +23933,8 @@ Homepage}</string>
 			<integer>1</integer>
 			<key>VerticalGuides</key>
 			<array>
-				<real>477</real>
-				<real>621</real>
-				<real>990</real>
-				<real>1368</real>
-				<real>1512</real>
+				<real>260</real>
+				<real>1070</real>
 			</array>
 		</dict>
 	</array>
@@ -23962,19 +23956,15 @@ Homepage}</string>
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array>
-			<string>Contact Us</string>
-			<string>TEMP: SITEMAP - NON-FUNCTIONAL</string>
 			<string>TEMP: SITEMAP - FUNCTIONAL</string>
+			<string>TEMP: SITEMAP - NON-FUNCTIONAL</string>
 			<string>CLIENT NAME</string>
-			<string>Homepage</string>
 		</array>
-		<key>FitInWindow</key>
-		<true/>
 		<key>Frame</key>
-		<string>{{-259, 900}, {1883, 1037}}</string>
+		<string>{{0, 38}, {1440, 839}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>ShowRuler</key>
@@ -23988,9 +23978,9 @@ Homepage}</string>
 		<key>TopSlabHeight</key>
 		<real>520</real>
 		<key>VisibleRegion</key>
-		<string>{{0, 0}, {2412, 1619.0389016018307}}</string>
+		<string>{{0, 0}, {1736, 1364}}</string>
 		<key>Zoom</key>
-		<real>0.54353233830845771</real>
+		<real>0.5</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
@@ -24005,8 +23995,8 @@ Homepage}</string>
 			</array>
 			<array>
 				<string>Homepage</string>
+				<real>0.71973466003316755</real>
 				<real>0.0</real>
-				<real>0.5</real>
 			</array>
 			<array>
 				<string>TEMP: SITEMAP - NON-FUNCTIONAL</string>
